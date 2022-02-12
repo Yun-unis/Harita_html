@@ -28,7 +28,7 @@
 .u-section-1 .u-image-1 {
   min-height: 240px;
   height: auto;
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/ga77bcccd50efb7b7f9401f410e2928479114658d99ec9fea8bc629bf38d734814d82dab0d5cf6e5229eb73651240fdc4df216781f35ea744a4f53d487d3e14ef_1280.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("https://raw.githubusercontent.com/Yun-unis/Harita_html/main/resim/1.jpg");
   margin-top: 0;
   margin-bottom: 0;
   width: 450px;
@@ -94,7 +94,7 @@
 }
 
 .u-section-1 .u-image-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/g8fc7f767e1140c008e11bb979fd3104088db67912ab91184eef0f475541791afa4eb3c7f705029a7854e28b24ed0c1932246b3cdf3d99dd38c248525d9aeb52b_1280.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("https://raw.githubusercontent.com/Yun-unis/Harita_html/main/resim/2.jpg");
   background-position: 50% 50%;
 }
 
@@ -159,7 +159,7 @@
 }
 
 .u-section-1 .u-image-3 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/g43ac17a6cd6c2ea4aa86d263de857e245e26ccc1ea8f67bae4b85bd9b4dec6f198a0b68f6aedfd47a12f604ffd91e63ff91bb2a676bc56b54a6b8defdd3833ee_1280.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("https://raw.githubusercontent.com/Yun-unis/Harita_html/main/resim/3.jpg");
   background-position: 50% 50%;
 }
 
