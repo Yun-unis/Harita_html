@@ -7,7 +7,7 @@
 
 \<embed type="text/html" 
        src="https://yun-unis.github.io/Harita_html/tuncer.html" 
-       width="970" height="600">
+       width="900" height="400">
 
 
 
